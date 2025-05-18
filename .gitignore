@@ -1,0 +1,74 @@
+## Build results
+bin/
+obj/
+out/
+
+## Rider
+.idea/
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## VS Code settings
+.vscode/
+
+## Mono Auto Generated Files
+mono_crash.*
+
+## Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+## VS working folders
+.vs/
+
+## NuGet
+*.nupkg
+**/packages/*
+!**/packages/build/
+!**/packages/repositories.config
+
+## ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+## Docker
+*.container
+*.pid
+Dockerfile.*
+docker-compose.*
+
+## Logs
+*.log
+logs/
+
+## Coverage & test results
+TestResults/
+*.coverage
+*.coveragexml
+*.testsettings
+*.vsmdi
+*.psess
+*.vsp
+*.vspx
+*.snapshot
+
+## EF Migrations snapshot (optional)
+Migrations/
+
+## Databases and secrets
+*.db
+*.sqlite
+.env
+.env.*
+secrets.json
+
+## macOS junk
+.DS_Store
+
+## JetBrains Rider
+.idea/
+*.sln.iml
